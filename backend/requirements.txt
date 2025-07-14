@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+click
+python-dotenv
+sentence-transformers
+faiss-cpu
+PyPDF2
+chromadb
+langchain
+tqdm
+pandas
+requests
