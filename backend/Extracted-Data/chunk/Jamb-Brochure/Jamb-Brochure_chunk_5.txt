@@ -1,0 +1,16 @@
+2.0.00  LIST OF UNIVERSITIES AND OTHER DEGREE-AWARDING INSTITUTIONS IN NIGERIA  
+A. Federal Universities -  -  -  -  -  -  -  -  -  -      8  
+B. Federal Universities of Agriculture -  -  -  -  -  -  -  -  -      9  
+C. Federal Universities of Technology -  -  -  -  -  -  -  -      9  
+  D  State Universities -  -  -  -  -  -  -  -  -  -  -  -    9  
+  E.  State Universities of Technology - -  -  -  -  -  -  -  -  -  -  11  
+ F.  State Universities of Education  -  -  -  -  -  -  -  -  -  -  11  
+ G.  State University of Medical Sciences  -  -  -  -  -  -  -  -  -  11  
+ H.  Private Universities -  -  -  -  -  -  -  -  -  -  -  -  11  
+ I.  Other Degree-Awarding Institutions -  -  -  -  -  -  -  -  -  -  15  
+  J.  E-Learning Universities of Nigeria -  -  -  -  -  -  -  -  -  -  19  
+iv  
+  
+  
+2.0. 01 State, Federal Universities and their Catchment Areas -  -  -  -  -  -  -  -  19  
+2.0.02 State Universities and Localities  -  -  -  -  -  -  -  -  -  20

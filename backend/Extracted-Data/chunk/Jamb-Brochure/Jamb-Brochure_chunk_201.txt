@@ -1,0 +1,15 @@
+4 Agricultural Business and Financial Mgt 38 Food Science with Business 
+5 Agricultural Co-operative 39 Food Services and Tourism 
+6 Agricultural Economics 40 Forestry & Environmental Management 
+7 Agricultural Economics & Extension 41 Forestry/Forest Resources Management 
+8 Agricultural Economics & Farm Management 42 Forestry and Fisheries 
+9 Agricultural Economics & Management Studies 43 Forestry & Wildlife 
+10 Agricultural Extension & Rural Sociology 44 Forestry, Wildlife & Fisheries 
+11 Agricultural Extension Services 45 Forestry & Wood Technology 
+12 Agricultural Extension & Rural Development 46 Home Economics 
+13 Agriculture and Fisheries Management 47 Home Science, Nutrition and Dietetics 
+14 Agric. Meteorology & Water Management 48 Home Science & Management 
+15 Agronomy 49 Horticulture 
+16 Animal Breeding and Genetics 50 Hotel Management & Tourism 
+17 Animal Physiology 51 Livestock Production Technology 
+18 Animal Production 52 Nutrition & Dietetics

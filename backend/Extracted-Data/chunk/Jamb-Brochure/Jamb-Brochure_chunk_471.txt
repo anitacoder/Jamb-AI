@@ -1,0 +1,11 @@
+4 Adult Education/Economics and Statistics 34 Statistics Education 24 Mass Communication 
+5 Adult and Non-Formal Education 35 Statistics/Computer Science  Education 25 Nigerian Languages 
+6 Adult and Community Education 36 Special Education 26 Education and Music 
+7 Adult Education/Political Science and Public Administration 37 Special Education (Visual Handicaps) EDUCATION (SCIENCE AND TECH) COURSES 
+8 Adult Education/Geography and Regional Planning 38 Sport Management 1 Agricultural Education 
+9 Curriculum and Teaching 39 Teacher Education 2 Automobil Technology Education 
+10 Curriculum and Instruction EDUCATION (ARTS) COURSES 3 Biology Education 
+11 Curriculum Studies 1 Arts and Social Science Education 4 Building Education 
+12 Educational Administration 2 Arts Education 5 Computer Education 
+13 Education Foundation and Administration 3 Education/Arabic 6 Computer and Information Teachnology 
+14 Educational Foundation 4 Education/Arts 7 Geography and Environmental Management (GEM)

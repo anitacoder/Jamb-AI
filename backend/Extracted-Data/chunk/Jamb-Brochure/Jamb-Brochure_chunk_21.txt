@@ -1,0 +1,29 @@
+xvii 
+ 
+The list of the PRCs only (not examination centre) are:  
+S/N  STATE  CENTRE NAME  
+1  ADAMAWA  Jamb Zonal Office Yola, Adamwa State (Registration only)  
+2  
+AKWA-IBOM  
+JAMB Office State Office, Atiku-Abubakar Road Uyo, Near State  
+Secretariat, Uyo, Akwa Ibom State. (Registration Only)  
+3  ANAMBRA  JAMB STATE OFFICE, AWKA (REGISTRATION ONLY)  
+4  
+BAUCHI  
+JAMB STATE OFFICE, OFF AHMADU BELLO WAY, BAUCHI, Bauchi State  
+(REGISTRATION ONLY)  
+5  BAYELSA  Jamb Office Yenagoa (Registration Only)  
+6  BORNO  JAMB ZONAL OFFICE MAIDUGURI (REGISTRATION ONLY)  
+7  
+CROSS-RIVER  
+JAMB STATE OFFICE, Calabar, 41 OKORO AGBOR STREET, OFF Marian 
+Road, Calabar, Cross River State.  
+8  EBONYI  JAMB STATE OFFICE, ABAKALIKI (REGISTRATION ONLY)  
+xviii 
+ 
+9  
+EDO  
+JAMB ZONAL OFFICE BENIN (REGISTRATION ONLY) 21 Ikpokpan Rd,  
+GRA, Benin- City, Edo State  
+10  ENUGU  JAMB STATE OFFICE, ENUGU (REGISTRATION ONLY)  
+11  GOMBE  JAMB STATE OFFICE, GOMBE, Gombe State (REGISTRATION ONLY)

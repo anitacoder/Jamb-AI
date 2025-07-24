@@ -1,0 +1,10 @@
+15 Applied Biology and Biochemistry 55 Energy and Petroleum Studies 95 Marine Biology and Fishery 135 Statistics and Biometrics 
+16 Applied Microbiology and Brewing 56 Environmental Biology and Fishery 96 Medical Laboratory Technology 136 Statistics and Computer Science 
+17 Applied Mathematics with Statistics 57 Environmental Management 97 Medical Laboratory Science 137 Software Development 
+18 Applied Statistics 58 Estate Management 98 Meterology 138 Surveying and Geo-Informatics 
+19 Applied Microbiology 59 Environmental Biology 99 Micribiology 139 Software Engineering 
+20 Applied Biology and Biotechnology 60 Exercise and Sport Science 100 Micribiology and Indu. Biotechnology 140 Telecommunication Management 
+21 Artifical intelligence 61 Fisheries and Aquatic Biology 101 Molecular Biology 141 Textile Science/Technology 
+22 Aquaculture and Fisheries 
+Management 
+62 Fisheries Aquaculture 102 Marine Environmental Science 142 Transport Management

@@ -1,0 +1,14 @@
+468 
+ 
+4 Agricultural and Bio-Resources Engineering 38 Food Science and Engineering 71 Project Management Technology 
+5 Architecture 39 Food Technology 72 Quantity Surveying 
+6 Banking and Finance 40 Gas Engineering 73 Software Engineering 
+7 Biomedical Engineering 41 Geography 74 Surveying 
+8 Building 42 Geography and Regional Planning 75 Surveying and Geo-Informatics 
+9 Chemical Engineering 43 Geography and Meterology 76 Systems Engineering 
+10 Chemical/Petroleum/Petrochemical Engr. 44 Geography and Planning 77 Statistics 
+11 Civil Engineering 45 Hotel Management and Tourism 78 Transportation and Management Technology 
+12 Civil Engineering/Hydrology 46 Home Economics and Food Management 79 Technological Management 
+13 Computer Engineering 47 ICT Engineering 80 Urban and Regional Planning 
+14 Computer  Science 48 Irrigation Enginerring 81 Visual Arts Technology 
+15 Computer Science and Engineering 49 Industrial Arts 82 Water Resources and Environmental Engr.

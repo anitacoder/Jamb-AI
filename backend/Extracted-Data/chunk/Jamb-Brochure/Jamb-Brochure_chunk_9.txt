@@ -1,0 +1,12 @@
+2.2.28 2.2.28 Michael Okpara University of Agriculture, Umudike  -  -  -  -  -  -  -  37  
+2.2.29 Redeemer’s University, Ede  -  -  -  -  -  -  -  -  -  -  37  
+2.2.30 Wellspring University, Benin City -  -  -  -  -  -  -  -  -  -  37  
+ 2.2.31  University of Agriculture, Makurdi -  -  -  -  -  -  -  -  38  
+ 2.2.32  Bayero University, Kano -  -  -  -  -  -  -  -  -  38  
+ 2.2.33  Lagos State University, Ojo  -  -  -  -  -  -  -  -  38  
+2.2.34 Osun State University, Osogbo  -  -  -  -  -  -  -  -  -  -  38  
+2.2.35 Ignatius Ajuru University of Education, Rumuolumeni, Port Harcourt -  -  -  -  -  -  -  38  
+2.2.36 Paul University, Awka  -  -  -  -  -  -  -  -  -  -  -  39  
+2.2.37 Kwara State University, Malete  -  -  -  -  -  -  -  -  -  -  39  
+2.2.38 Federal College of Education (Technical), Omoku, Rivers State (in affiliation with University of Nigeria, Nsukka)  -  39  
+2.2.39 Nigerian Police Academy, Wudil, Kano State  -  -  -  -  -  -  -  -  -  39

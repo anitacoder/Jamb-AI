@@ -1,0 +1,2279 @@
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+11
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+2
+3
+ 
+      
+                  
+D
+OI: 
+10.5281/zenodo.3362224
+ 
+ 
+Historical Evaluation o
+f 
+JAMB
+ 
+a
+nd i
+ts E
+fficiency i
+n Educational Development 
+i
+n 
+Nigeria, 1978
+-
+2019
+ 
+ 
+Akinyoola, Olaniyi Aremu
+ 
+Department o
+f History
+,
+ 
+Schoo
+l 
+o
+f Secondary Education (Arts a
+nd Social Sciences)
+ 
+The College o
+f Education, Lanlate
+ 
+E
+mail: 
+niyakin4success@yahoo.com
+ 
+ 
+Abstract
+ 
+ 
+The establishment of tertiary institutions in Nigeria necessitated the setting up 
+of entrance examin
+ations into these schools. This becomes more understandable 
+if one consi
+ders the teeming population of youths seeking admission into these 
+tertiary institutions. Hitherto, each institution used to conduct entrance 
+examinations in line with their autonomous s
+tatus. This process was called
+ 
+concessional admission. It was in 1978 
+that the Federal Government of Nigeria 
+established the Joint Admission
+s
+ 
+Matriculation Board (JAMB) to harmonize 
+admissions into tertiary institution
+s in Nigeria. This paper undertook
+ 
+a 
+historical evaluation of JAMB’s efficiency in the conduct of entrance 
+e
+xaminations in Nigeria, 1978
+-
+2019. Historical descriptive design was adopted
+.
+ 
+Fifteen 
+staff
+,
+ 
+applicants and students were sampled from fifteen tertiary 
+institutions and their host communities in South Western geo
+-
+political zone of 
+Nigeria. A structured que
+stionnaire titled “Questionnaire on Historical 
+Evaluation of JAMB Efficiency in the Conduct of Entrance Examinations in 
+Nigeria” (QHEJECEEN) was used
+. The data obtained were analyzed using
+ 
+ANOVA
+ 
+as the statistical tool
+. It was revealed that examination mal
+practices 
+remain a formidable task before JAMB. In view of the foregoing
+, it was 
+recommended 
+that the nation should urgently come to the rescue of JAMB to 
+curb examination malpractices.
+ 
+ 
+Key
+words
+: Efficiency, examination, evaluation, admission, tertiary 
+in
+stitutions.
+ 
+ 
+Received: 25
+ 
+April 2019
+ 
+ 
+                  
+               
+Accepted:
+ 
+20
+ 
+July 2019
+ 
+ 
+ 
+
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+12
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+Introduction
+ 
+ 
+Examination is a word that embellishes a lot of steps in one’s 
+quest for knowledge or information. 
+It has to do with questions, tests, assessments, evaluations
+,
+ 
+inquiries and so on. It is in line with 
+the foregoing that the first examination in the world could be traced to the first five 
+questions in 
+the Bible.
+ 
+The 
+first was between 
+Satan and the woman, and the last four were between God on 
+the one 
+hand and the c
+ouple Adam and Eve
+ 
+on the other. However, 
+the first known examination 
+in the world of human beings could be traced to 
+1796 when Maskely
+ne, not only observed but 
+als
+o recorded with the aid of tele
+scope, the movement of stars in England (Agbama, 2019). 
+Study
+ing differences in equations and observations among human beings, Bessel, a German 
+Astro
+no
+mer
+,
+ 
+in the year
+s
+ 
+1820
+-
+1833, improved on the works began by Maskelyne. However, it 
+was not until 1884 that tests and 
+measurements
+ 
+of individuals started with the disc
+overy of 
+Sir 
+Francis Galton in his laboratories (Agbama, 2019). The point must, however, be made that these 
+early examinations were informal, oral and written as the case might be.
+ 
+ 
+The Chinese were said to have been the first people to have applied informal 
+examinations in written form in appointments into 
+their civil service as
+ 
+early as 2200 B.C
+. 
+Before 1815, the Americans were 
+believed to have emp
+loyed the use of series of 
+achievem
+ent tests in their educational and civil service systems (Agbam
+a, 2019). A test 
+called the Beri
+et Simon intelli
+gence test
+ 
+was targ
+eted at measuring the intelligen
+ce of 
+children while group te
+st was first introduced in the years 
+1914
+-
+1918 to test the 
+intell
+igence of soldiers (Agbama, 2019). Objective tests were developed in 1864 by George 
+Fisher 
+and in 1877, J.M. 
+Rice 
+introduced what has been known as the standard objective 
+scale (Agbama, 2019).
+ 
+ 
+It is quite logical
+ 
+to
+ 
+argue that the first formal examination 
+known in Nigeria, without 
+fear 
+o
+f
+ 
+self
+-
+contradictions;
+ 
+came 
+parri
+ 
+passu
+,
+ 
+with the advent of w
+estern education.
+ 
+This 
+perspective is more tenable if one considers the fact that transition from one level to 
+another would have required a decision as to whether
+ 
+the pupils had satisfied all the 
+requirements for promotion or not. Such a decision would naturally come after a form of 
+test, measurement, evaluation and or examination in the spirit of fair play. However, the 
+first known examination body in Nig
+eria is t
+he West African Examination
+ 
+Council 
+(WAEC) which had first been established in the Gambia in 1951 and in 1952 its office was 
+opened in Nigeria. 
+(
+Agbama
+,
+ 
+2019) opined that, 
+inter
+-
+alia
+, WAEC conducts examinations 
+like the West African School Certificate 
+Exam
+ination (WASCE), General Certificate 
+Examination 
+(GCE), 
+City 
+and Guilds and the Royal Society of Arts (RSA) Examination. 
+ 
+ 
+Other examination bodies in Nigeria include the National Examination Council (NECO), 
+National Business and 
+Technical 
+Examination
+ 
+Board
+ 
+(NABTEB), the 
+International 
+Centre 
+for 
+Educational
+ 
+Evaluation (ICEE) and 
+JAMB
+. Before going further, the point must be 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+13
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+made that all the other examination bodies aforementioned including WAEC, but 
+excluding JAMB were so established to conduct terminal exa
+minations in secondary and 
+specialized
+ 
+schools particularly with a view to preparing students for tertiary institutions. 
+It was only JAMB that was founded to conduct entrance examinations into Universities 
+in Nigeria and it is in this light that this paper
+ 
+discusses the history of JAMB.
+ 
+ 
+The years 1948, when the University College, Ibadan
+,
+ 
+was established
+;
+ 
+and 1978, when 
+JAMB 
+was established, witnessed a period when universities in Nigeria were allowed to 
+control their admission without recourse to any 
+external examination body (Anyawu, 
+2016). The years following the civil war brought new developments into the 
+educational 
+landscape of Nigeria. The Gowon reg
+ime wanted to use education 
+as a tool for national 
+re
+-
+birth and reconciliation. The point must be r
+eiterated were that during the civil war, 
+educational activities, in most cases were disrupted or actually paralyzed 
+particularly
+ 
+in 
+Eastern Nig
+eria. The population of the country was 
+rapidly
+ 
+increasing especially in 
+post
+-
+civil 
+war Nigeria and the teeming 
+population of Nigerian youths were becoming 
+increasingly ambitious and were vig
+orously pursuing university educa
+tion especially in 
+the South.
+ 
+Coupled with the foregoing is also the fact
+ 
+that the nation needed s
+killed 
+manpower to harness and articulate the 
+rehabilitation programmes of 
+the Federal 
+Government and so u
+niversity education became highly sought after.
+ 
+ 
+This period, however, co
+i
+ncided
+ 
+with a time when the existing u
+niver
+sities could no 
+longer satisfy the yearnings of youths seeking admission. This w
+as occasioned by lack of 
+facilities like classrooms, hostels, laboratories and personnel which concomitantly 
+constrained the universities to limit the numbers of students admitted annually. Anyawu 
+(2016) submitted that this period of low admission also saw
+ 
+a period of imbalance in 
+admission where the North continued to protest against the number of intakes 
+vis
+-
+à
+-
+vis
+ 
+the 
+South
+. Since each university was conducting 
+its
+ 
+admission on its own, another 
+problem of multiple admission consequently arose. This was a 
+situation when
+;
+ 
+because 
+applicants were not sure if they would be offered admission by a particular university, 
+applicants would now apply to 
+different
+ 
+u
+niversities and would be offered admission by 
+more than one. In such a situation, candidates so offered
+ 
+admission by different 
+universities 
+would not reject such multiple admissions on time thereby preventing other 
+candidates from being admitted (Anyawu, 2
+016). Since the South embraced w
+estern 
+education earlier than the North, cases of multiple admissions, 
+understandably, were 
+more rampant in the South than the North. It was then argued by the North that the South 
+was deliberately using multiple admissions to deprive its youths
+ 
+from being admitted 
+into 
+universities
+. Th
+us this era of 
+cut throat c
+ompetition and mutual suspicion between 
+the North and 
+South that
+ 
+characterized pre
+-
+civil war 
+Nigeria,
+ 
+was being re
+-
+awakened. 
+Anyawu (2016) opined that all these culminated in increasing 
+demands for the 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+14
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+introduction of quota 
+system, establishment of federal
+ 
+universities in all states and the 
+establishment of state universities.
+ 
+ 
+The Federal Government responded to this by removing university education from the 
+Concurrent 
+list to the 
+Exclusive 
+list through the instrumentality of the 1972 Declaration 
+which surr
+eptitiously amended the 1963 Republican Constitution (Anyawu, 2016). The 
+meaning of the foregoing is that only the Federal Government of Nigeria could establish 
+and own universities. University admission and by extension, education became the 
+exclusive res
+ponsibility of the federal government alone. Secondly in addition to the 
+existing six universities
+,
+ 
+the federal government established seven more making the 
+number to be thirteen before 1978. Finally, the federal government set up a committee 
+known as
+ 
+the
+ 
+Committee on University Entrance (CUE) headed by M.S. Angulu to advice 
+government
+,
+ 
+inter
+-
+alia
+, on how to solve issues generated by university admission in 
+Nigeria (Anyawu, 2016). It was this committee that recommended among other things 
+the establishment o
+f the 
+Universities Central Admission 
+Board whi
+ch 
+metamorphiz
+ed
+ 
+into JAMB in 1978 (Anyawu, 2016).
+ 
+ 
+Having established 
+the foregoing point
+,
+ 
+it is quite pertinent to examine the formative 
+years of JAMB’s existence with a view to understanding how it has fared 
+in carrying out 
+the mandate given to it. JAMB (2019
+a
+) noted that JAMB 
+was established by Decree No. 2 
+of 1978 as amended by Decree No 33 o
+f 1989. The
+s
+e
+ 
+decrees em
+powered JAMB, 
+inter
+-
+alia
+,
+ 
+to conduct matriculation examinations into all 
+Universities
+, 
+Polytechnics 
+and 
+Colleges 
+of 
+Education in Nigeria
+.
+ 
+In 
+order to achieve the foregoing mandate JAMB was further 
+empowered to appoint all personnel like examiners, invigilators,
+ 
+moderators and other 
+personnel
+ 
+it considered necessary in the conduct of its exam
+inations. Moreover, JAMB 
+was also enabled by these decrees to admit candidates who have been adjudged to have 
+satisfied all requirements for admission into tertiary institutions in Nigeria (JAMB, 
+2019
+a
+). JAMB Act (2019
+b
+) submitted that the enabling decrees
+ 
+establishing JAMB also 
+defined
+, among other things,
+ 
+membership of the Board
+,
+ 
+tenure of office of Board 
+members
+,
+ 
+removal from office of 
+Board 
+members
+,
+ 
+ministerial power over the 
+Board, 
+other 
+staff of the 
+Board, 
+fund of the 
+Board,
+ 
+expenditure of t
+he Board
+.
+ 
+ 
+Ukoba (2017) opined that JAMB prior to 2014, was conducting two different examinations 
+into higher institutions in Nigeria. One was the University Matriculation Examination 
+(UME) and the other was the Monotechnics, Polytechnics and Colleges of Education 
+Ex
+aminations (MPCE). It 
+was,
+ 
+however
+,
+ 
+in 2010 that JAMB harmonized the two 
+examinations 
+and so the Unified Tertiary Matriculation Examination (UTME) was born. 
+This was apparently done to save cost and
+ 
+time and at the same time, it gav
+e equal 
+opportunities fo
+r all candidates seeking admission into tertiar
+y institutions in Nigeria. 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+15
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+Then
+ 
+the paper and pencil test (PPT) was
+ 
+in vogue but now a computer bas
+ed te
+st (CBT) 
+which i
+s a computer based standardized test had been introduced. The duration of each 
+examinatio
+n was 
+two hours forty
+-
+five minutes with a grade range of 0
+-
+400 and a validity 
+period of one year. It must also 
+be observed that JAMB conducted its examinations only 
+once a year. 
+ 
+ 
+JAMB (2019
+c
+) observed that the introduction of biometric data capture for sta
+ff of the 
+Board and can
+didates seeking admission 
+went a long way to check examination 
+malpractices and also to monitor the movement of staff. Coupled with the foregoing, the 
+Board also went digital with supply of computers to staff
+.
+ 
+All
+ 
+these culminated in 
+timely 
+release of examinations’ results within two weeks 
+instead of within two or three months 
+as was the practice. Lawal (2019) opined 
+that
+ 
+JAMB had been un
+-
+relenting in checking 
+examination malpractices in all its centres nationwide.
+ 
+There are laid down rules and 
+procedures to be met by these centres and any contravention attracted stiff penalties
+; as 
+it was the case in 2019, w
+hen JAMB banned
+ 
+on
+e hundred of its centres
+ 
+nationwide
+ 
+for 
+committing various examination offences. JAMB (2019
+d
+) noted that one of the many ways 
+by which the 
+Board 
+had been assisting candidates to ease their yearly burden of obtaining 
+admi
+ssion into higher institutions of their choice was the provision of an online support 
+system known as the 
+Central Online Suppor
+t System 
+(COSS)
+.
+ 
+This
+ 
+included 
+Candidate
+/General 
+Support 
+Ticket, 
+Development Partners 
+and 
+Centre Support 
+and 
+Local 
+Support
+.
+ 
+ 
+To buttress the point that paucity of funds was not one of the many
+ 
+challenges bedeviling 
+JAMB, 
+according to (Nwafor, 20
+17) 
+whereas
+ 
+between 2010 and 2016, the total amount of 
+money remitted to the 
+federal government 
+by JAMB was 5 million 
+Naira
+,
+ 
+it rose to 7.8 
+billion 
+Naira 
+in 2017 alone. That JAMB had, not only adopted technology but had 
+entrenched 
+it
+ 
+is no longer in doubt. I
+redia (201
+9) had noted that th
+e JAMB Registra
+r
+, 
+through the use of technology, could kno
+w
+ 
+when a candidate registers, the exact time of 
+registration
+,
+ 
+the system used to register the
+ 
+candidate as
+ 
+well as the exact location 
+of the 
+registration centre. Ired
+ia (2019) ad
+ded that 
+biometric 
+veri
+fication of candidates was a 
+maj
+or 
+achievement
+ 
+of the Board which had gone a long 
+way in checking impersonation 
+at
+ 
+examination centres.
+ 
+ 
+In spite of these daunting achievements by JAMB, the task of conducting examinations 
+into all the tertiary institutions in Nigeria with the teeming population of her 
+youths
+ 
+is 
+rather 
+Herculean 
+(Rotimi, 2015). The introduction of U.T.M.E
+.
+ 
+had made a mockery
+ 
+of the 
+fact that admission requirements into Universities, Polytechnics and Colleges of 
+Edu
+cation are different. By harmonizing matriculation examinations of
+ 
+these i
+nstitutions 
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+16
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+the objectives of th
+e founders of these different
+ 
+institutions
+ 
+had thus been d
+efeated
+ 
+(Rotimi
+, 2015).
+ 
+ 
+Sylvester (2016) noted that screening of candidates into universities after writing 
+JAMB 
+examinations began when cases of examination malpractices became rampant. In order 
+to further examine candidates before being admitted, in
+stitu
+tions now introduced 
+screen
+ing tests for candidates 
+and this
+ 
+is now known as post U.T.M.E
+.
+ 
+The 
+foregoing is 
+further 
+buttressed
+ 
+by the point that a correlation had not been made between higher 
+JAMB scores and better performance of students during their 100 
+level, whereas a 
+correlation was established between higher 
+Senior Secondary Certificate Examination 
+(SSC
+E) scores and students performance in higher schools (Lawal, 2016). The minimum 
+cut off marks for admissions into Univ
+ersities, Polytechn
+ics Colleges o
+f Education range
+ 
+between 100
+ 
+-
+160 (Bamigbola, 2019). The implication of the foregoing is that any 
+candidate who secured admission into any higher institution in Nigeria with 100 marks 
+or 25% of the total marks obtainable or 160 marks or 40% had actually p
+erformed below 
+average (Rotimi, 2015)
+.
+ 
+Most 
+institutions
+,
+ 
+whether public or private
+,
+ 
+now admit students 
+who had performed dismally in entrance examinations.
+ 
+ 
+Statement of the Problem
+s
+ 
+Multiple admissions had deprived many Nigerian youths admission into higher 
+institutions and the North was mostly affected. In order to solve this problem the Federal 
+Government of Nigeria established JAMB to conduct matriculation examinations into 
+tertiar
+y 
+institutions
+ 
+in
+ 
+Nigeria.
+ 
+ 
+Purpose of the Study
+ 
+JAMB had been the sole body conducting entrance examinations into higher institutions 
+in Nigeria since 1978. 
+However, there are constraints o
+n the performance of this task as 
+there are many higher institutio
+ns in Nigeria and given the sheer size of the nation’s 
+population of admission 
+seekers every year. Coupled with the foregoing is the fact that 
+standards are being lowered yearly as a progre
+ssive reduction in cut
+-
+off mark
+s was 
+observed
+. This paper, therefor
+e, evaluates the history and efficiency of JAMB in 
+conducting matriculation examinations into higher institutions in Nigeria.
+ 
+ 
+Hypothesis 
+ 
+Ho1:
+ 
+There is no significant difference between efficiency of JAMB and admission of 
+candidates with low grades.
+ 
+ 
+Ho2: T
+here is no significant difference between
+ 
+the
+ 
+efficiency of JAMB and post U.T.M.E.
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+17
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+Methodology
+ 
+ 
+Historical descriptive survey research design was used which necessitated a structured 
+questionnaire. The 
+title of the 
+structured questionnaire is “QHEJECEEN”. 
+Sampled 
+respondents
+ 
+were selected with descriptive sampling technique. Fifteen staff, applicants 
+and students were sampled from fifteen higher institutions and their host
+ 
+communities 
+in South
+-
+Western Nigeria making a total of 225 respondents. A ten item qu
+estionnaire 
+was designed on the subject. The questionnaire is close
+ 
+-
+ 
+ended which included Yes or 
+No options. The data collected was analyzed with ANOVA as the statistical tool. 
+“QHEJECEEN” was validated by two 
+Principal 
+Lecturers of the 
+School 
+of 
+Secondar
+y 
+Education (Arts and Social Sciences)
+ 
+of
+ 
+The 
+College of Education, Lanlate and two
+ 
+Senior 
+Lecturers 
+of the Department of 
+History
+, University of Ibadan. T
+-
+test was also used to test 
+internal validity and the reliability co
+-
+efficient of 0.81 was established
+ 
+which
+ 
+was
+ 
+reliable 
+enough to carry out the research. 
+ 
+ 
+Discussion of Results
+ 
+ 
+Ho
+1:
+ 
+The
+re is no significant difference
+ 
+between the efficiency of JAMB and the 
+admission of students with low grades.
+ 
+ 
+The 
+first hypothesis that says 
+there is no significant difference between the efficiency of 
+JAMB and the admission of students with low grades is rejected
+ 
+as shown on Table
+s
+ 
+1 
+and 
+2
+ 
+. The implication of the rejection of this null hypothesis
+ 
+is
+ 
+that if JAMB is truly 
+efficient,
+ 
+admission of students with low grades would not have been allowed in the first 
+instance as this would ultimately affect students
+’
+ 
+performance when eventually 
+admitted.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+18
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+2
+3
+ 
+ 
+Table 1:
+ 
+Efficiency o
+f 
+JAMB 
+a
+nd 
+t
+he Admission o
+f Students 
+with
+ 
+Low Grades
+.
+ 
+ 
+EFFICIENCY 
+OF JAMB
+ 
+ 
+ADMISSION 
+OF 
+STUDENTS 
+WITH 
+GRADES
+ 
+ 
+TOTAL
+ 
+ 
+ 
+YES (%)
+ 
+NO (%)
+ 
+ 
+Q1
+ 
+Is there any significant 
+difference between 
+effectiveness of U.T.M.E. 
+and admission of students 
+with low grades?
+ 
+139 (62)
+ 
+86 (38.22)
+ 
+225
+ 
+Q2
+ 
+Is there any relationship 
+between effective 
+supervision of U.T.M.E. 
+and admission of students 
+with low grades? 
+ 
+141 (62.67)
+ 
+84 (37.33)
+ 
+225
+ 
+Q3
+ 
+Do you agree that JAMB’s 
+prompt release of results 
+has anything to do with 
+admission of students with 
+low grades?
+ 
+99 (44)
+ 
+126 (56)
+ 
+225
+ 
+Q4
+ 
+Do you agree that the 
+establishment of JAMB has 
+a relationship with 
+inadequacies of 
+concessional admission?
+ 
+176 (78.22)
+ 
+49 (21.78)
+ 
+225
+ 
+Q5
+ 
+Is there any relationship 
+between the harmonization 
+of tertiary matriculation 
+examination a
+nd 
+admission of students with 
+low grades?
+ 
+162 (72)
+ 
+63 (28)
+ 
+225
+ 
+ 
+ 
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+19
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+TABLE
+ 
+2
+:
+ 
+ANOVA
+ 
+R
+esults
+ 
+of 
+Table 1
+ 
+Source
+ 
+ss
+ 
+D
+f
+ 
+ms
+ 
+F
+ 
+f
+. 
+critical
+ 
+p
+-
+value
+ 
+D
+ecision
+ 
+Between
+ 
+9548.1
+ 
+1
+ 
+9548.1
+ 
+11216
+ 
+5.3177
+ 
+0.0101
+ 
+Reject
+ 
+Within
+ 
+6910.4
+ 
+8
+ 
+851.3
+ 
+Total
+ 
+16458.5
+ 
+9
+ 
+ 
+This i
+s an agreement with (Rotimi,
+ 
+2015
+) when it was asserted that tertiary institution
+s in 
+Nigeria admit candidates with as low as between 25% and 40% of the total marks 
+obtainable in matriculation examinations conducted by JAMB. It then means that 
+students being admitted into higher
+ 
+institutions in Nigeria
+ 
+are below average.
+ 
+ 
+H
+o
+2:
+ 
+There is 
+no significant difference between efficiency of JAMB and 
+post
+-
+ 
+U.T.M.E.
+ 
+ 
+Table 2:
+ 
+Efficiency o
+f 
+JAMB
+ 
+a
+nd Post
+-
+U.T.M.E.
+ 
+EFFICIENCY 
+OF JAMB
+ 
+ 
+POST U. T. M. E.
+ 
+ 
+TOTAL
+ 
+ 
+ 
+YES%
+ 
+NO%
+ 
+ 
+Q1
+ 
+Is there any correlation between 
+effectiveness of JAMB and the 
+establishment 
+of post U.T.M.E.?
+ 
+147 (65.33)
+ 
+78 
+(34.67)
+ 
+225
+ 
+Q2
+ 
+Is there any relationship 
+between supervision of 
+matriculation examinations and 
+establishment of post U.T.M.E.?
+ 
+182 (80.89)
+ 
+43 
+(19.11)
+ 
+225
+ 
+Q3
+ 
+Is there any relationship 
+between JAMB’s timely release 
+of results and post U.T.M.E.? 
+ 
+161 (71.56)
+ 
+64 
+(28.44)
+ 
+225
+ 
+Q4
+ 
+Is there any relationship 
+between concessional 
+admission and post U.T.M.E.?
+ 
+133 (59.11)
+ 
+92 
+(40.89)
+ 
+225
+ 
+Q5
+ 
+D
+o you agree that there is a 
+correlation between the 
+harmonization of tertiary 
+matriculation examination and 
+post U.T.M.E.?
+ 
+205 (91.11)
+ 
+20 
+(8.89)
+ 
+225
+ 
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+20
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+TABLE
+ 
+2:
+ 
+ANOVA Resul
+ts of Table 2
+ 
+SOURCE
+ 
+ss
+ 
+df
+ 
+ms
+ 
+F
+ 
+f.critical
+ 
+p
+-
+value
+ 
+decision
+ 
+BETWEEN
+ 
+27984.1
+ 
+1
+ 
+27984.1
+ 
+34.023
+ 
+5.3177
+ 
+ 
+0.0004
+ 
+Reject
+ 
+WITHIN
+ 
+6580
+ 
+8
+ 
+8225.1
+ 
+TOTAL
+ 
+34
+5
+64.1
+ 
+9
+ 
+ 
+The second null hypothesis that says there is no significant difference between efficiency 
+of JAMB and the introduction of post U.T.M.E
+.
+ 
+in tertiary institutions in Nigeria is 
+rejected
+ 
+as shown on Table 1 as well as ANOVA
+ 
+in
+ 
+Table 2
+. What the foregoing means is 
+that if JAMB is really efficient in carrying out its mandate, there would not have been any 
+need for higher institutions to conduct separate screening of candidates seeking 
+admission as epitomized in the 
+post
+ 
+U.T.M.E
+.
+ 
+Failure 
+of JAMB in addressing lapses in the 
+admission process
+es, therefore,
+ 
+led to post U.T.M.E.
+ 
+ 
+This is in tandem with the assertion of (Sylvester, 2016) that higher 
+institutions
+ 
+in Nigeria 
+began to conduct post U
+.
+T
+.
+M
+.
+E
+.
+ 
+wh
+en the conduct of matriculation examina
+tions
+ 
+by 
+JAMB became riddled wi
+th
+ 
+malpractices.
+ 
+ 
+Conclusion and 
+Recommendations
+ 
+ 
+A historical evaluation of JAMB and its efficiency in
+ 
+the
+ 
+educational
+ 
+development of 
+Nigeria was carried out and the study covered the years between 1978, when the Board 
+was es
+tablished and 2019, the current year. Looking at the events surrounding the 
+establishment of 
+JAMB
+, one would readily agree that the Federal 
+Government
+ 
+of Nigeria 
+then had 
+almost no option other than to s
+et up the Board. There was heat in the body 
+politic 
+and the palpable tension generated by multiple admissions pitched the North 
+again
+st the South. This period coincid
+ed with the period of North/South dichotomy and 
+government wanted the problem solved once and for all hence the establishment of 
+JAMB.
+ 
+ 
+Admitte
+dly with the establishment of
+ 
+JAMB and harmonization of
+ 
+admission processes
+,
+ 
+the hue and cry generated hitherto 
+were doused albeit temporarily. The 
+establishment
+ 
+of 
+more universities, especially in Northern Nigeria, also contributed in no small measure 
+to 
+allay the fears of domination of the North by the 
+South 
+educationally. 
+ 
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+21
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+2
+3
+ 
+ 
+JAMB had done a lot in conducting matriculation examinations into higher institutions
+ 
+in Nigeria. Not only had it digitalized its operations, it had also pleasantly surprised 
+Nigerians
+ 
+by releasing its results with
+in
+ 
+the shortest 
+possible time. The Board had also 
+shown serious commitment towards checking examination malpractices by descending 
+heavily on perpetrators of such dastardly acts. All these were efforts 
+aimed at lend
+ing 
+credibi
+lity
+ 
+to its examinations. 
+ 
+ 
+However, higher institutions had shown that Jamb was not effi
+ci
+ent in carrying out its 
+mandate by introducing the post U.T.M.E
+.
+ 
+The 
+post 
+U.T.M.E.,
+ 
+therefore
+,
+ 
+is a
+ 
+tacit
+ 
+rejection 
+of JAMB’s matriculation examinations which is aki
+n to a vote of no confidence.
+ 
+ 
+Interestingly enough; the North that had inadvertently contributed immensely to the 
+establishment of 
+JAMB 
+with the belief that 
+universities 
+were discriminating against
+ 
+northern candidates, still, up till now, do not have as m
+any students in 
+universities 
+as the 
+south does. This is better understood when one considers the fact that the quota system, 
+when introduced, was principally aimed at providing admission opportunities for 
+applicants from the less 
+privileged
+ 
+areas especiall
+y the North.
+ 
+Anyawu (2016) submitted 
+that in 1978/79 a
+cademic session
+,
+ 
+for instance, a total of 113, 162 candidates applied to 
+different universities in
+ 
+Nigeria
+.
+ 
+Out
+ 
+of this figure, applicants from the North were less 
+than 20,000
+. Of
+ 
+the total number
+ 
+that applied for admission
+, only 14,417 students or 12% 
+were admitted altogether with the 
+South 
+having 11,641 and the North
+ 
+having 2,776. 
+Unfortunately the trend continues till today.
+ 
+ 
+It is in view of all the foregoing that the paper recommended that 
+JAM
+B
+, as presently 
+constituted
+,
+ 
+should be un
+-
+bundled and de
+-
+centralized. Nigeria is a large country both in
+ 
+te
+r
+ms of land mass and population with her youths seeking admission contributing a big 
+chunk of the nation’s population. For a single body to effective
+ly carry out the 
+responsibility of conducting matriculation examinations for all the tertiary institutions in 
+the whole country is rather herculean indeed.
+ 
+ 
+ 
+Nigeria is 
+a
+ 
+heterogeneous
+ 
+nation and there is no gainsaying the fact that higher 
+institutions wer
+e founded, 
+inter
+-
+alia
+, to stimulate the growth and development of their 
+host communities. If the input of individual institutions is not factorized in admission 
+processes, it would affect the quality of intakes and thus compromise the aims and 
+objectives o
+f the founding fathers in establishing such an institution. It is thus suggested 
+that each 
+institution
+ 
+should be allowed a large measure of 
+autonomy
+ 
+in its admission 
+processes.
+ 
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+22
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+In recent years, the Federal Government had been taking steps to stop tertiary
+ 
+institutions 
+from conducting post U.T.M.E
+.
+, although it has not been implemented with the political 
+will it deserves. Instead of doing this govern
+ment should empower tertiary institutions 
+in the conduct of local matriculation examinations.
+ 
+ 
+JAMB
+ 
+should
+ 
+also take urgent steps to reinvigorate credibility and integrity in its 
+examinations by checkmating examination malpractices. It is quite evident that giant 
+strides have been made in this direction. The ban placed on 100 CBT centres, discussed 
+elsewh
+ere in
+ 
+this paper, is a good cas
+e in point. However, more could still be done in this 
+direction
+ 
+and all stakeholders in the education sector should come to the assistance of the 
+Board to so
+lve this multi
+-
+facetted problem 
+not only
+ 
+of
+ 
+JAMB but of the whole nation 
+as a 
+whole.
+ 
+ 
+Government is apparently in a 
+dilemma
+ 
+amidst calls for the un
+-
+bundling of JAMB. The 
+reason is not far
+-
+fetched as the body language of the North does not favour such a 
+dramatic step. 
+The apprehension is quite under
+sta
+nda
+ble in view of the yawni
+ng gap 
+between the North and the South in the area of population of youths in higher institutions 
+of learning. This problem could be solved from the primary and 
+secondary
+ 
+schools levels. 
+The preponderance of out of school children is higher in the North 
+vi
+s
+-
+à
+-
+vis
+ 
+the South. If 
+the gap would be bridged at the top, the best place to start is from the lower levels. 
+ 
+ 
+References
+ 
+ 
+Agbama, D. (2019)
+.
+ 
+The history of examinations in Nige
+ria. Retrieved on 8 July, 2019.
+ 
+Available at 
+www.academia.edu/9552956/the
+-
+history
+-
+of
+-
+examination
+-
+in
+-
+nigeria
+.
+ 
+ 
+Anyawu, O. (2016)
+.
+ 
+Experiment with Mass University Educa
+tion in 
+post
+-
+civil
+ 
+war
+ 
+Nigeria,
+ 
+1970 
+–
+ 
+1979 in 
+Journa
+l of Nigeria Studies
+ 
+Vol. 1(1) pp. 1
+-
+36.
+ 
+ 
+Bamigbola, B. (2019
+) Jamb, institutions approve 160 as cut
+-
+off mark for 2019admission.
+ 
+Punch 
+of 11
+ 
+June
+, 2019
+.
+ 
+ 
+Iredia, T
+. (2019) INEC should emulate JAMB’s  Ishaq Oloyede. The Vanguard of 19
+ 
+May,
+ 
+2019.
+ 
+ 
+JAMB (2019
+a
+) 
+The JAMB Mandate. Retrieved on 9
+ 
+July, 2019. Available a
+t
+ 
+www.jamb.gov.ng/home.aspx
+.
+ 
+ 
+ 
+ 
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+23
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+JAMB Act (2019
+b
+) Joint Admissions and Matriculation 
+Board Act. Retrieved on 9 July,
+ 
+2019. Available at
+ 
+www.nigerialaw.org/Joint%20Admissions%20and%20Matriculation%20Board%20AC
+ 
+htmNigeria
+.
+ 
+ 
+JAMB 
+(2019
+c
+) Milestone achievements of Jamb from 2007 
+–
+ 
+date. 
+Retrieved
+ 
+on 8 July, 
+2019. 
+Available at 
+www.jamb.gov.ng/headline3.aspx
+.
+ 
+ 
+JAMB (2019
+d
+)
+ 
+Central Online Support 
+System. Retrieved on
+ 
+8 July, 2019. Available at
+ 
+support.jamb.gov.ng
+ 
+ 
+Lawal, I. (2016) ASUU Leader seeks decentraliza
+tion o
+f JAMB. The Guardian of 4 July,
+ 
+2016.
+ 
+ 
+Lawal, I. (2019) JAMB bans 100 centres over
+ 
+malpractices. The Guadian of 4 May
+, 2019.
+ 
+ 
+Nwafor, S. (2017) 
+Our 
+17 achievements from 2017
+-
+Presidency
+. The 
+Vanguard 
+of 29
+ 
+December, 2017.
+ 
+ 
+Rotimi, K. (2015) 
+JAMB 
+as a 
+Departing Concern. The Guardian of 10 August, 2015.
+ 
+ 
+Sylvester, U. (2016) How we started Post
+-
+U
+.
+T
+.
+M
+.
+E
+. 
+-
+ 
+Ex
+-
+Nuc boss Okebukola
+.
+ 
+Daily
+ 
+Trust
+ 
+of 12 July, 2016.
+ 
+ 
+Ukoba, I.H. (2017) 10 Functions of JAMB in Nigeria. 
+Retri
+eved on 9 July, 2019. Available
+ 
+at info
+gui
+denigeria.com/functions
+-
+of
+-
+jamb/
+ 
+ 
+ 

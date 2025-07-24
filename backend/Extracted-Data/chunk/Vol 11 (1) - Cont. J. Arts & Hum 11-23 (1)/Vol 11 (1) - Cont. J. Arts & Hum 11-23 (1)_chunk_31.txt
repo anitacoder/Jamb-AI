@@ -1,0 +1,108 @@
+This work is licensed under a 
+Creative Commons Attribution 
+4
+.0 Unported License
+ 
+ISSN: 2141 
+-
+ 
+4122
+                                
+Science and Education Development Inst., Nigeria
+ 
+20
+ 
+ 
+Continental J. Arts a
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+TABLE
+ 
+2:
+ 
+ANOVA Resul
+ts of Table 2
+ 
+SOURCE
+ 
+ss
+ 
+df
+ 
+ms
+ 
+F
+ 
+f.critical
+ 
+p
+-
+value
+ 
+decision
+ 
+BETWEEN
+ 
+27984.1
+ 
+1
+ 
+27984.1
+ 
+34.023
+ 
+5.3177
+ 
+ 
+0.0004
+ 
+Reject
+ 
+WITHIN
+ 
+6580
+ 
+8
+ 
+8225.1
+ 
+TOTAL
+ 
+34
+5
+64.1
+ 
+9
+ 
+ 
+The second null hypothesis that says there is no significant difference between efficiency 
+of JAMB and the introduction of post U.T.M.E
+.
+ 
+in tertiary institutions in Nigeria is 
+rejected
+ 
+as shown on Table 1 as well as ANOVA
+ 
+in
+ 
+Table 2
+. What the foregoing means is 
+that if JAMB is really efficient in carrying out its mandate, there would not have been any 
+need for higher institutions to conduct separate screening of candidates seeking

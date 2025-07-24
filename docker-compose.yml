@@ -2,13 +2,87 @@ version: '3.8'
 
 services:
   frontend:
-    build: ./frontend
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: jamb_frontend
     ports:
       - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
     depends_on:
       - backend
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000
+    networks:
+      - jamb_ai_network
 
   backend:
-    build: ./backend
+    build:
+      context: ./backend
+    container_name: jamb_backend
     ports:
       - "8000:8000"
+    volumes:
+      - ./backend:/app
+      - ./Data/backend-artefacts:/app/artefacts
+    environment:
+      MONGO_URI: "mongodb://mongodb:27017"
+      MONGO_DB_NAME: "jamb_rag_db"
+      OLLAMA_BASE_URL: "http://ollama:11434"
+      OLLAMA_MODEL: "llama3.2:1b"
+    depends_on:
+      - mongodb
+    networks:
+      - jamb_ai_network
+
+  mongodb:
+    image: mongo:latest
+    container_name: jamb_mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./Data/mongodb:/data/db
+    networks:
+      - jamb_ai_network
+
+  mongo-express:
+    image: mongo-express:latest
+    container_name: jamb_mongo_express
+    ports:
+      - "8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_SERVER: mongodb
+      ME_CONFIG_MONGODB_PORT: 27017
+      # ME_CONFIG_MONGODB_ADMINUSERNAME: admin
+      # ME_CONFIG_MONGODB_ADMINPASSWORD: pass
+      ME_CONFIG_MONGODB_URL: mongodb://mongodb:27017
+    depends_on:
+      - mongodb
+    networks:
+      - jamb_ai_network
+
+  ollama:
+    build:
+      context: ./ollama
+      dockerfile: ollama.Dockerfile
+    container_name: ollama_ai
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - jamb_ai_network
+
+volumes:
+  ollama_models:
+
+networks:
+  jamb_ai_network:
+    driver: bridge

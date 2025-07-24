@@ -1,0 +1,20 @@
+15 Agronomy 49 Horticulture 
+16 Animal Breeding and Genetics 50 Hotel Management & Tourism 
+17 Animal Physiology 51 Livestock Production Technology 
+18 Animal Production 52 Nutrition & Dietetics 
+19 Animal Production & Health Service 53 Pasture & Range Management 
+97 
+ 
+20 Animal Production with Nutrition 54 Plant Breeding and Seed Technology 
+21 Animal Science 55 Plant Science 
+22 Animal Science and Production 56 Plant Science and Biotechnology 
+23 Animal Science/Nutrition 57 Plant Science and Crop Production 
+24 Animal Science and Range Management 58 Plant Physiology and Crop Ecology 
+25 Biotechnology 59 Plant Physiology and Crop Production 
+26 Crop Production 60 Public & Community Health 
+27 Crop Protection 61 Soil Science 
+28 Crop Science 62 Soil Science and Land Management 
+29 Crop, Soil & Environmental 63 Soil Science and Environmental Management 
+30 Eco-Tourism and Wildlife Management.   
+31 Environmental Management and Tech. 
+32 Family, Nutrition and Consumer Sciences

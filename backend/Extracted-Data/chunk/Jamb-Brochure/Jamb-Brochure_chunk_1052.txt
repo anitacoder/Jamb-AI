@@ -1,0 +1,10 @@
+29 Botany and Microbiology 69 Geology and Geo-Physics 109 Optometry 149 Zoology 
+30 Biotechnology 70 Geography/Regional Planning 110 Petrol-Chemistry 150 Zoology and Aquaculture 
+31 Building Technology 71 Geology and Earth Sciences 111 Project Management 151 Zoology &Animal Systematics 
+32 Cell Biology and Genetics 72 Geoloogy and Mineral Science 112 Physics and Applied Physics   33 Chemistry 73 Geoscience 113 Physics 
+34 Chemical and Industrial Chemistry 74 Hardware and Networking 114 Physics Engineering 
+35 Chemical Science 75 Industrial Chemistry 115 Physics/Astrology 
+36 Combined Physical Sciences 76 Industrial Physics 116 Physics / Computational Modeling 
+37 Computer Engineering 77 Industrial and Environmental Chemistry 117 Physics / Computer Science 
+38 Computer Electronics 78 Industrial Mathematics 118 Physics / Electronics 
+39 Computer Science 79 Industrial Mathematics/Statistics 119 Physics/Material Science

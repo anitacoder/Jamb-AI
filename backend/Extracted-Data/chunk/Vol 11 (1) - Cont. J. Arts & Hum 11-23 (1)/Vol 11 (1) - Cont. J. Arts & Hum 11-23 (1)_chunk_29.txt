@@ -1,0 +1,148 @@
+nd Humanities
+ 
+Akinyoola
+ 
+(201
+9
+) 
+1
+1
+ 
+(1): 1
+1
+ 
+–
+ 
+23
+ 
+ 
+TABLE
+ 
+2
+:
+ 
+ANOVA
+ 
+R
+esults
+ 
+of 
+Table 1
+ 
+Source
+ 
+ss
+ 
+D
+f
+ 
+ms
+ 
+F
+ 
+f
+. 
+critical
+ 
+p
+-
+value
+ 
+D
+ecision
+ 
+Between
+ 
+9548.1
+ 
+1
+ 
+9548.1
+ 
+11216
+ 
+5.3177
+ 
+0.0101
+ 
+Reject
+ 
+Within
+ 
+6910.4
+ 
+8
+ 
+851.3
+ 
+Total
+ 
+16458.5
+ 
+9
+ 
+ 
+This i
+s an agreement with (Rotimi,
+ 
+2015
+) when it was asserted that tertiary institution
+s in 
+Nigeria admit candidates with as low as between 25% and 40% of the total marks 
+obtainable in matriculation examinations conducted by JAMB. It then means that 
+students being admitted into higher
+ 
+institutions in Nigeria
+ 
+are below average.
+ 
+ 
+H
+o
+2:
+ 
+There is 
+no significant difference between efficiency of JAMB and 
+post
+-
+ 
+U.T.M.E.
+ 
+ 
+Table 2:
+ 
+Efficiency o
+f 
+JAMB
+ 
+a
+nd Post
+-
+U.T.M.E.
+ 
+EFFICIENCY 
+OF JAMB
+ 
+ 
+POST U. T. M. E.
+ 
+ 
+TOTAL
+ 
+ 
+ 
+YES%
+ 
+NO%
+ 
+ 
+Q1
+ 
+Is there any correlation between 
+effectiveness of JAMB and the 
+establishment 
+of post U.T.M.E.?
+ 
+147 (65.33)
+ 
+78

@@ -1,0 +1,15 @@
+10 Communications 42 Library Studies 74 Sociology and Psychology 
+11 Criminology and Penology 43 Local Government Studies 75 Transport Planning and Management 
+12 Demography and Social Statistics 44 Management Information System 76 Taxation 
+13 Economics 45 Management Technology 78 Tourism and Eventmanagement 
+14 Enterpreneuship 46 Mass Communication 79 Urban and Regional Planning 
+15 Economics and Development Studies 47 Marketing   
+16 Economics and Operation Research 48 Office System Management 
+17 Economics and Statistics 49 Peace and Development Studies 
+18 Finance 50 Personnel Management 
+19 Gender and Woman Studies 51 Philosophy 
+20 Geography 52 Project Management Technology 
+21 Geography and Planning Science 53 Political Science and History 
+22 Geography and Environmental Management 54 Political Philosophy/Economics 
+23 Geography and Resources Management 55 Political Science and Public Administration 
+24 Geography and Regional Planning 56 Poltitical Science and Diplomacy

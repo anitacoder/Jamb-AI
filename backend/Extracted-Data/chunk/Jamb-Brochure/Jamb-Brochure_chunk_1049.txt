@@ -1,0 +1,8 @@
+8 Applied Ecology 48 Communication Technology 88 Mathematics and Geography 128 Pure and Industrial Chemistry 
+9 Applied Zoology 49 Cognitive Science 89 Mathematics and Geography 129 Public Health Technology 
+10 Applied Chemistry 50 Chemistry and Industrial Chemistry 90 Mathematics with Statistics 130 Pure/Applied Biology 
+11 Applied Geophysics 51 Electronics 91 Mathematics/Statistics/Computer Science 131 Pure/Applied Physics 
+12 Applied Geology 52 Electronics and Computer Technology 92 Mathematics with Physics 132 Pure/Applied Mathematics 
+13 Applied Biology 53 Engineering Physics  93 Mathematics with Management Sciences 133 Science Laboratory Technology 
+14 Applied Biochemistry 54 Energy Studies 94 Marine Biology 134 Statistics 
+15 Applied Biology and Biochemistry 55 Energy and Petroleum Studies 95 Marine Biology and Fishery 135 Statistics and Biometrics

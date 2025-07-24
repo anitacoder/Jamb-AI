@@ -1,0 +1,13 @@
+SCIENCES  
+FACULTY/SCHOOL/COLLEGE OF SCIENCE  
+(B.Sc. & B. Tech Programmes)  
+601 
+ 
+1 Architecture 41 Computer with Statistics 81 Information and Communication Tech. 121 Physical Sciences 
+2 Archealology 42 Computer and Economics 82 Information Technology 122 Plant Science 
+3 Parasitology adn Entomology 43 Computer Sci.  with Islamic Religious Studies 83 Information Science 123 Plant Biology 
+4 Animal Biology and Environmental 44 Computer and Mathematics 84 Management Information System 124 Plant Science and Biotechnology 
+5 Animal and Environmetal Biology 45 Computational Analysis 85 Management Software Development 125 Plant Science and Forestry. 
+6 Anthropology 46 Computer Science and Information Technology 86 Mathematics 126 Plant Science and Taxonomy 
+7 Applied Botany 47 Computer Science and Accounting 87 Mathematics and Economics 127 Pure/Applied Chemistry 
+8 Applied Ecology 48 Communication Technology 88 Mathematics and Geography 128 Pure and Industrial Chemistry
